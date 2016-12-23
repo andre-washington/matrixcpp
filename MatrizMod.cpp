@@ -6,7 +6,7 @@
 #include <fstream>
 
 // Modelo de Matriz>>
-// Autor: André Washington Morais de Freitas Data: dez/2016
+// 
 //Requisitos:
 //lidar com qualquer tipo de dados (bool, int, float, char, double,etc) 
 //add/rem linhas e colunas
